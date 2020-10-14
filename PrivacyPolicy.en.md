@@ -10,7 +10,7 @@ This app can only access:
  This app cannot access:
  - **App has no access to files in your Downloads directory**.
  - App has no access to any other directories.
- - App, with exception of files and directories you choose, **has no accces to any external network or devices**.
+ - App, with exception of files and directories you choose, **has no accces to any external network (like internet) or devices**.
  
 ## Processing information 
  - This app may process your financial and personal information only for the purpose of creating a new file in a specified export directory, however **this data always stays on your device and it is never transmitted outside, as this app has no capability to connect to the internet**.
